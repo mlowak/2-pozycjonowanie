@@ -1,0 +1,23 @@
+.out {
+    height: 400px;
+    width: 400px;
+    background-color: #a6a9b6;
+    border: 20px solid #666360;
+    position: relative;
+  }
+  
+  .in {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+  }
+  
+  .gray {
+    background-color: #e4e4e4;
+    right: 0;
+  }
+  
+  .orange {
+    background-color: #ff912e;
+    bottom: 0;
+  }
